@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 ln -s -f vimrc ~/.vimrc
+ln -s -f bash_profile ~/.bash_profile
 ln -s -f bashrc ~/.bashrc
 ln -s -f tmux.conf ~/.tmux.conf
 
