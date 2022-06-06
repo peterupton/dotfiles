@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-ln -vs -f vimrc ~/.vimrc
-ln -vs -f bash_profile ~/.bash_profile
-ln -vs -f bashrc ~/.bashrc
-ln -vs -f tmux.conf ~/.tmux.conf
-ln -vs -f ansible.conf ~/ansible.conf
+ln -v -f vimrc ~/.vimrc
+ln -v -f bash_profile ~/.bash_profile
+ln -v -f bashrc ~/.bashrc
+ln -v -f tmux.conf ~/.tmux.conf
+ln -v -f ansible.cfg ~/ansible.cfg
 
