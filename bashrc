@@ -88,4 +88,3 @@ alias clip='xclip -sel clip'
 export PATH="$PATH:`pwd`/flutter/bin"
 
 export PS1="\s \[\e[0;36m\]\u\[\e[0;37m\]@\[\e[0;33m\]$(hostname --fqdn)\[\e[0;37m\]:\[\e[0;37m\]\w\[\e[0m\]\\$ "
-

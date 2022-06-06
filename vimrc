@@ -25,6 +25,9 @@ nnoremap <CR> :noh<CR><CR>
 nnoremap ; :
 vnoremap ; :
 set visualbell 
+inoremap <C-v> <ESC>"+pa
+vnoremap <C-c> "+y
+vnoremap <C-x> "+d
 set tabstop=4 shiftwidth=4 expandtab  " use spaces instead of tabs, 4 spaces for each tab
 
 " Local config
